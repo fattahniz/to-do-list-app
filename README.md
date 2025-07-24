@@ -6,7 +6,7 @@ A simple and responsive **To-Do List** web app built with **HTML**, **CSS**, and
 
 ## 🔗 Live Demo
 
-🚀 [View Live on Vercel]([https://to-do-list-app-abdulfattahnizamani.vercel.app](https://to-do-list-app-flax-iota.vercel.app/])
+🚀 [View Live on Vercel] https://to-do-list-app-abdulfattahnizamani.vercel.app](https://to-do-list-app-flax-iota.vercel.app/
 
 ---
 

@@ -97,3 +97,64 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+
+@media screen and (max-width: 480px) {
+    body {
+        padding: 10px;
+    }
+
+    .container {
+        width: 95%;
+        padding: 15px;
+        margin: auto;
+    }
+
+    h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    input[type="text"] {
+        width: 100%;
+        font-size: 14px;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    button {
+        width: 100%;
+        font-size: 14px;
+        padding: 10px;
+        margin-top: 8px;
+    }
+
+    ul li {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
+
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .container {
+        width: 80%;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    input[type="text"], button {
+        font-size: 16px;
+        padding: 12px;
+    }
+}
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        width: 70%;
+    }
+}

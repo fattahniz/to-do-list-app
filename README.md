@@ -27,7 +27,7 @@ A simple and interactive **To-Do List Application** built with **HTML, CSS, and 
 
 ```bash
 git clone https://github.com/fattahniz/to-do-list-app.git
-cd to-do-list-app
+cd to-do-list-app)**
 
 2. Open index.html in your browser to start using the app.
 

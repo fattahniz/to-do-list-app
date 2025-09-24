@@ -15,6 +15,8 @@ A simple and interactive **To-Do List Application** built with **HTML, CSS, and 
 
 **Frontend:** HTML, CSS, JavaScript (ES6+)
 
+**Deployment:** Vercel
+
 ## Installation
 1. Clone the repository:
 ```bash

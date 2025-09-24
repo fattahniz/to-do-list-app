@@ -2,7 +2,6 @@
 
 A simple and interactive **To-Do List Application** built with **HTML, CSS, and JavaScript**. Users can add, edit, delete, and mark tasks as completed. This project is perfect for beginners learning DOM manipulation, event handling, and basic front-end development.
 
-
 ## 🏆 Features
 
 - Add new tasks  
@@ -12,39 +11,38 @@ A simple and interactive **To-Do List Application** built with **HTML, CSS, and 
 - Responsive and user-friendly interface  
 - Save tasks in **local storage** (optional enhancement)  
 
+## 🛠️ Tech Stack
 
+**Frontend:** HTML, CSS, JavaScript (ES6+)
 
-## 💻 Technologies Used
-
-- **HTML5** – Structure of the application  
-- **CSS3** – Styling and responsive design  
-- **JavaScript** – Interactive functionality and DOM manipulation  
-
-
-## 🚀 Installation & Usage
-
+## Installation
 1. Clone the repository:
-
 ```bash
-git clone https://github.com/fattahniz/to-do-list-app.git
+   git clone https://github.com/fattahniz/to-do-list-app.git
 cd to-do-list-app
 ```
+
 2. Open index.html in your browser to start using the app.
 
 3. Optional: Use a live server in VS Code for better experience.
 
-🌐 [Live Demo](https://to-do-list-app-flax-iota.vercel.app)
+## 📂 Project Structure
+```css
+project/
+│── index.html
+│── style.css
+│── main.js
+│── images/
+│── README.md
+```
 
+## 🤝 Contributing
+Fork the repo
 
-🎯 Learning Outcomes
+1. Create a new branch (feature/my-feature)
+2. Commit changes
+3. Push branch and create a Pull Request
 
-Learn DOM manipulation in JavaScript
-
-Implement add, edit, delete, and complete task functionality
-
-Build a responsive UI with HTML and CSS
-
-Understand storing data locally using localStorage
-
-
-#html #css #javascript #todo-app #frontend #web-app #responsive-design #localstorage
+## 📄 License
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE
+file for details.
